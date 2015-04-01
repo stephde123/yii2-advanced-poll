@@ -1,0 +1,21 @@
+{
+    "name": "stephde123/yii2-advanced-poll",
+    "type": "yii2-extension",
+    "description": "Yii2 Advanced Poll",
+    "keywords": ["yii2", "poll", "extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Stephan Depta",
+            "email": "stephan.depta@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "stephde123\\advanced-poll\\": ""
+        }
+    }
+}
